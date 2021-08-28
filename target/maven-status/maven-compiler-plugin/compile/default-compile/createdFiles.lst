@@ -1,5 +1,3 @@
-co\com\example\userinterfaces\DetallesArticuloPage.class
-co\com\example\userinterfaces\HomePage.class
-co\com\example\tasks\BuscarProducto.class
-co\com\example\tasks\AgregarProducto.class
-co\com\example\userinterfaces\CarroCompras.class
+co\com\example\tasks\SignInTask.class
+co\com\example\userinterfaces\SignInPage.class
+co\com\example\userinterfaces\CheckSignInPage.class
