@@ -7,6 +7,6 @@ my java version is 1.8.0
 
 my gradle version is 4.6
 
-I am using the intellij idea community compiler,to run the test just enter this command line in the compiler terminal
+I am using the intellij idea community compilerto run the test, just enter this command line in the compiler terminal
 
 "mvn clean verify -Dest=TestWorkRunner -Denvironment=default"
